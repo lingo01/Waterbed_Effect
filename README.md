@@ -1,7 +1,7 @@
 
 # Waterbed_Effect
 
-Data and code of the article "Compositional Grid Codes with Guarantee on Both Stability and Dynamic Performance"
+Data and code of the article "Stability Degradation Induced by Angle–Voltage Coupling in Power Systems: Bode-Type Fundamental Performance Limitation Analysis"
 
 This source code repository accompanies the following paper (open-sourced upon acceptance):
 
@@ -87,4 +87,5 @@ Pre-generated data are stored under `data&figure/`, including (depending on case
 - Reproducibility: many scripts use fixed default parameters; Fig.10 uses `rng(2026)` for repeatability.
 - Runtime: Fig.8 and Fig.10 can be time-consuming due to wideband frequency sweeps and/or Monte-Carlo sampling.
 - Case selection: scripts typically use IEEE test cases (e.g., `case14`, `case39`, `case118`). Ensure the corresponding data files exist under `data&figure/`.
+
 
