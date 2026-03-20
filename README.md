@@ -5,7 +5,7 @@ Data and code of the article "Stability Degradation Induced by Angle–Voltage C
 
 This source code repository accompanies the following paper (open-sourced upon acceptance):
 
-> [1] X. Peng, Z. Li, C. Fu, P. Yang, Z. Wang, and F. Liu, ‘Stability Degradation Induced by Angle–Voltage Coupling in Power Systems: Bode-Type Fundamental Performance Limitation Analysis’.
+> [1] X. Peng, Z. Li, C. Fu, P. Yang, Z. Wang, and F. Liu, ‘Stability Degradation Induced by Angle–Voltage Coupling in Power Systems: Bode-Type Fundamental Performance Limitation Analysis’, IEEE Transactions on Automation Science and Engineering, 2026.
 
 The full paper and the source code can be found at: https://github.com/lingo01/Waterbed_Effect
 
