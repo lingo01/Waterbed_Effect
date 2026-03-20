@@ -3,7 +3,7 @@
 
 Data and code of the article "Stability Degradation Induced by Angle–Voltage Coupling in Power Systems: Bode-Type Fundamental Performance Limitation Analysis"
 
-This source code repository accompanies the following paper (open-sourced upon acceptance):
+This source code repository accompanies the following paper:
 
 > [1] X. Peng, Z. Li, C. Fu, P. Yang, Z. Wang, and F. Liu, ‘Stability Degradation Induced by Angle–Voltage Coupling in Power Systems: Bode-Type Fundamental Performance Limitation Analysis’, IEEE Transactions on Automation Science and Engineering, 2026.
 
