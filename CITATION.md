@@ -1,10 +1,12 @@
-@article{Peng_Sensitivity_2025,
+@article{Peng_Sensitivity_2026,
 
- title = {A Fundamental Limit in Angle-Voltage Coupling Dynamics: Sensitivity Conservation and Breaking},
+ title = {Stability Degradation Induced by Angle–Voltage Coupling in Power Systems: Bode-Type Fundamental Performance Limitation Analysis},
 
  author = {Peng, Xiaoyu and Fu, Cong and Li, Zhongze and Yang, Peng and Wang, Zhaojian and Liu, Feng},
 
- year = {2025},
+ year = {2026},
+
+ journal = {IEEE Transactions on Automation Science and Engineering},
 
  langid = {english}
 
